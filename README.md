@@ -1,1 +1,1 @@
-# Data_Mining-Suicide-Trends
+# Data_Mining-Suicide-Rates
